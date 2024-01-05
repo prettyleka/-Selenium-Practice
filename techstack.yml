@@ -1,11 +1,12 @@
 repo_name: prettyleka/-Selenium-Practice
 report_id: a467744f5a7f3bffdf11cfc69007565e
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-11T05:33:31+00:00'
+timestamp: '2024-01-05T08:52:01+00:00'
 requested_by: prettyleka
 provider: github
 branch: master
-detected_tools_count: 29
+detected_tools_count: 30
 tools:
 - name: ASP.NET
   description: An open source web framework for building modern web apps and services
@@ -17,7 +18,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
-  detection_source_url: SeleniumProject.csproj
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice/blob/master/SeleniumProject.csproj
   detection_source: SeleniumProject.csproj
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:05:38.000000000 Z
@@ -30,6 +31,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -41,6 +43,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:05:38.000000000 Z
@@ -52,6 +55,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:05:38.000000000 Z
@@ -63,6 +67,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice
   detection_source: Repo Metadata
 - name: NUnit
   description: An open-source unit testing framework
@@ -72,6 +77,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/2371/jZ6MYx5Y_400x400.png
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:05:38.000000000 Z
@@ -83,6 +89,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:05:38.000000000 Z
@@ -95,6 +102,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Browser Testing
   image_url: https://img.stackshare.io/service/1517/sbUizSli_400x400.jpg
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:05:38.000000000 Z
@@ -107,6 +115,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice/blob/master/SeleniumProject.sln
   detection_source: SeleniumProject.sln
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:05:38.000000000 Z
@@ -118,6 +127,7 @@ tools:
   category: Application Utilities
   sub_category: Search as a Service
   image_url: https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:05:38.000000000 Z
@@ -127,6 +137,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/9672/nlog_logo_square_normal.png
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:05:38.000000000 Z
@@ -141,7 +152,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/15401/default_2d3a54fb471e8215ac08e1a9313c21a7a69a9e8b.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:05:38.000000000 Z
@@ -156,7 +167,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13044/default_79c0a8d9add56bcf90325ea0ad034f66b38d8dd7.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:05:38.000000000 Z
@@ -170,7 +181,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13222/default_43ce02ab18bb400d4d6b410ac4dc3a50f87e634a.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:05:38.000000000 Z
@@ -184,7 +195,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13142/default_a057bdad489be3cb053d372a68695da4ac94962d.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:05:38.000000000 Z
@@ -198,7 +209,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12930/default_f8bf1110f8f0beaf5fae35865de7f77ccd1139f0.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:05:38.000000000 Z
@@ -211,7 +222,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13027/default_79c0a8d9add56bcf90325ea0ad034f66b38d8dd7.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:05:38.000000000 Z
@@ -224,7 +235,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12892/default_f3b66025ae87cade251c16c8d9e166b0f1df9597.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:05:38.000000000 Z
@@ -244,7 +255,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13134/default_048f7c1081704627a12b8b5e168cfdbc9f28fb33.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:05:38.000000000 Z
@@ -258,7 +269,22 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13086/default_f40625acd95121d452edf898b600c5691551f727.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice/blob/master/packages.config
+  detection_source: packages.config
+  last_updated_by: Valeria Basov
+  last_updated_on: 2020-02-04 16:05:38.000000000 Z
+- name: NLog
+  description: NLog is a logging platform for .NET with rich log routing and management
+    capabilities
+  package_url: https://www.nuget.org/NLog
+  version: 4.6.8
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12859/default_a3ccb59f9bc7225d3e241611dc27d0f4cd9875eb.png
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:05:38.000000000 Z
@@ -272,13 +298,19 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/nuget/image.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:05:38.000000000 Z
   vulnerabilities:
-  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+  - name: 'Duplicate Advisory: Improper Handling of Exceptional Conditions in Newtonsoft.Json'
     cve_id: 
+    cve_url: https://github.com/advisories/GHSA-8rfx-6mr3-5jh3
+    detected_date: Jan 4
+    severity: high
+    first_patched: 13.0.1
+  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+    cve_id: CVE-2024-21907
     cve_url: https://github.com/advisories/GHSA-5crp-9r3c-p9vr
     detected_date: Jun 23
     severity: high
@@ -293,7 +325,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13114/default_7730aba6df4478f4dfdede17ef73dd29c3d5f711.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:05:38.000000000 Z
@@ -315,7 +347,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12976/default_c33fee4544dbdcb376300222dc5e214ee63f7ce9.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:05:38.000000000 Z
@@ -330,7 +362,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13570/default_b3a9fa7efbcc92b2b6d42b9fa9afd23454bef416.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:05:38.000000000 Z
@@ -344,7 +376,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13038/default_a0b0eac5a401515996bd8fc359ffcfbc844cbe90.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:05:38.000000000 Z
@@ -358,7 +390,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13012/default_dd10728859f7e363ef13345d855b2daba48cace4.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:05:38.000000000 Z
@@ -371,7 +403,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13111/default_623cfb3f5700f77ec1aadc91de41d13f3aa2ae3d.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:05:38.000000000 Z
@@ -386,7 +418,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13527/default_311009104e9efa41dc477451d8d60c2d0cbe7895.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:05:38.000000000 Z
@@ -399,7 +431,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12960/default_cd4457378b2b3dee674f43707df49edfbc5c04e5.png
-  detection_source_url: packages.config
+  detection_source_url: https://github.com/prettyleka/-Selenium-Practice/blob/master/packages.config
   detection_source: packages.config
   last_updated_by: Valeria Basov
   last_updated_on: 2020-02-04 16:05:38.000000000 Z
