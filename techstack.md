@@ -3,14 +3,14 @@
 ## Tech Stack
 prettyleka/-Selenium-Practice is built on the following main stack:
 
-- [Elasticsearch](https://www.elastic.co/products/elasticsearch) – Search as a Service
-- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- [C#](http://csharp.net) – Languages
-- [MongoDB](http://www.mongodb.com/) – Databases
-- [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
-- [Selenium](http://www.seleniumhq.org/) – Browser Testing
-- [NUnit](http://www.nunit.org/) – Testing Frameworks
 - [ASP.NET](https://www.asp.net/) – Languages
+- [C#](http://csharp.net) – Languages
+- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- [MongoDB](http://www.mongodb.com/) – Databases
+- [NUnit](http://www.nunit.org/) – Testing Frameworks
+- [Selenium](http://www.seleniumhq.org/) – Browser Testing
+- [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
+- [Elasticsearch](https://www.elastic.co/products/elasticsearch) – Search as a Service
 
 Full tech stack [here](/techstack.md)
 
@@ -20,14 +20,14 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 prettyleka/-Selenium-Practice is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png' alt='Elasticsearch'/> [Elasticsearch](https://www.elastic.co/products/elasticsearch) – Search as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1030/leaf-360x360.png' alt='MongoDB'/> [MongoDB](http://www.mongodb.com/) – Databases
-- <img width='25' height='25' src='https://img.stackshare.io/service/1451/SR2hUhQN.png' alt='Visual Studio'/> [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
-- <img width='25' height='25' src='https://img.stackshare.io/service/1517/sbUizSli_400x400.jpg' alt='Selenium'/> [Selenium](http://www.seleniumhq.org/) – Browser Testing
-- <img width='25' height='25' src='https://img.stackshare.io/service/2371/jZ6MYx5Y_400x400.png' alt='NUnit'/> [NUnit](http://www.nunit.org/) – Testing Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png' alt='ASP.NET'/> [ASP.NET](https://www.asp.net/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1030/leaf-360x360.png' alt='MongoDB'/> [MongoDB](http://www.mongodb.com/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/2371/jZ6MYx5Y_400x400.png' alt='NUnit'/> [NUnit](http://www.nunit.org/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/1517/sbUizSli_400x400.jpg' alt='Selenium'/> [Selenium](http://www.seleniumhq.org/) – Browser Testing
+- <img width='25' height='25' src='https://img.stackshare.io/service/1451/SR2hUhQN.png' alt='Visual Studio'/> [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
+- <img width='25' height='25' src='https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png' alt='Elasticsearch'/> [Elasticsearch](https://www.elastic.co/products/elasticsearch) – Search as a Service
 
 Full tech stack [here](/techstack.md)
 
@@ -38,7 +38,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [prettyleka/-Selenium-Practice](https://github.com/prettyleka/-Selenium-Practice)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|30<br/>Tools used|01/05/24 <br/>Report generated|
+|30<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
